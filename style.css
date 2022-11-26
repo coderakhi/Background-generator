@@ -1,0 +1,37 @@
+
+body{
+    background:linear-gradient(to right,red,yellow)
+}
+
+h1{
+    text-align: center;
+    letter-spacing: 0.75rem;
+    margin-top: 5%;
+}
+
+.secondpart{
+    margin-top: 15%;
+}
+
+.colorpicker{
+    text-align: center;
+    
+}
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3{
+    text-align: center;
+}
+
+.random-button{
+    text-align: center;
+    
+}
+
+.ranbutton{
+    border-radius: 30%;
+}
